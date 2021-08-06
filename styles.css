@@ -42,6 +42,10 @@
 	background-color:#487047;
 }
 
+.shadow{
+    box-shadow: 0 1rem 3rem rgba(38, 39, 63, 0.475)!important;
+}
+
 .rank1 { top: 420px; }
 .rank2 { top: 360px; }
 .rank3 { top: 300px; }
